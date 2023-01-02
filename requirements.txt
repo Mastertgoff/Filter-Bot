@@ -2,5 +2,7 @@ git+https://github.com/MKN-BOTZ/pyrogram
 tgcrypto
 pypdf2
 pyshorteners
-
-
+ytthumb
+youtube_search
+Wikipedia
+googletrans==3.1.0a0
