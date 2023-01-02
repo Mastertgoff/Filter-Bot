@@ -6,4 +6,4 @@ ytthumb
 youtube_search
 Wikipedia
 googletrans==3.1.0a0
-yt_dlp
+
