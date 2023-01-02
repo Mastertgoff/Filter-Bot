@@ -103,5 +103,5 @@ ffmpeg
 Pillow
 
 spotipy
-
+aiohttp
 mutagen 
